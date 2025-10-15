@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nice-data-with-openAI", "nice-data-with-openAI\nice-data-with-openAI.csproj", "{E8178329-4462-40B8-9BCA-F89065A61CD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8178329-4462-40B8-9BCA-F89065A61CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8178329-4462-40B8-9BCA-F89065A61CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8178329-4462-40B8-9BCA-F89065A61CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8178329-4462-40B8-9BCA-F89065A61CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {633C9817-90FA-4C48-9EE1-8AE9935ABC4C}
+	EndGlobalSection
+EndGlobal

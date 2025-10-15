@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORK\\Backend\\nice-data-with-openAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|d:\\work\\backend\\nice-data-with-openai\\nice-data-with-openai\\services\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|solutionrelative:nice-data-with-openai\\services\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|d:\\work\\backend\\nice-data-with-openai\\nice-data-with-openai\\services\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|solutionrelative:nice-data-with-openai\\services\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|d:\\work\\backend\\nice-data-with-openai\\nice-data-with-openai\\services\\iwhisperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|solutionrelative:nice-data-with-openai\\services\\iwhisperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|d:\\work\\backend\\nice-data-with-openai\\nice-data-with-openai\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|solutionrelative:nice-data-with-openai\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|d:\\work\\backend\\nice-data-with-openai\\nice-data-with-openai\\services\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|solutionrelative:nice-data-with-openai\\services\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|d:\\work\\backend\\nice-data-with-openai\\nice-data-with-openai\\services\\whisperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|solutionrelative:nice-data-with-openai\\services\\whisperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|d:\\work\\backend\\nice-data-with-openai\\nice-data-with-openai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|solutionrelative:nice-data-with-openai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|d:\\work\\backend\\nice-data-with-openai\\nice-data-with-openai\\nice-data-with-openai.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E8178329-4462-40B8-9BCA-F89065A61CD9}|nice-data-with-openAI\\nice-data-with-openAI.csproj|solutionrelative:nice-data-with-openai\\nice-data-with-openai.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVideoService.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\Services\\IVideoService.cs",
+              "RelativeDocumentMoniker": "nice-data-with-openAI\\Services\\IVideoService.cs",
+              "ToolTip": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\Services\\IVideoService.cs",
+              "RelativeToolTip": "nice-data-with-openAI\\Services\\IVideoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:36:25.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWhisperService.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\Services\\IWhisperService.cs",
+              "RelativeDocumentMoniker": "nice-data-with-openAI\\Services\\IWhisperService.cs",
+              "ToolTip": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\Services\\IWhisperService.cs",
+              "RelativeToolTip": "nice-data-with-openAI\\Services\\IWhisperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T23:03:16.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\appsettings.json",
+              "RelativeDocumentMoniker": "nice-data-with-openAI\\appsettings.json",
+              "ToolTip": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\appsettings.json",
+              "RelativeToolTip": "nice-data-with-openAI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T22:41:43.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WhisperService.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\Services\\WhisperService.cs",
+              "RelativeDocumentMoniker": "nice-data-with-openAI\\Services\\WhisperService.cs",
+              "ToolTip": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\Services\\WhisperService.cs",
+              "RelativeToolTip": "nice-data-with-openAI\\Services\\WhisperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T21:31:15.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoService.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\Services\\VideoService.cs",
+              "RelativeDocumentMoniker": "nice-data-with-openAI\\Services\\VideoService.cs",
+              "ToolTip": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\Services\\VideoService.cs",
+              "RelativeToolTip": "nice-data-with-openAI\\Services\\VideoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T21:31:13.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenAIService.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\Services\\OpenAIService.cs",
+              "RelativeDocumentMoniker": "nice-data-with-openAI\\Services\\OpenAIService.cs",
+              "ToolTip": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\Services\\OpenAIService.cs",
+              "RelativeToolTip": "nice-data-with-openAI\\Services\\OpenAIService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T21:31:11.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOpenAiService.cs",
+              "DocumentMoniker": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\Services\\IOpenAiService.cs",
+              "RelativeDocumentMoniker": "nice-data-with-openAI\\Services\\IOpenAiService.cs",
+              "ToolTip": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\Services\\IOpenAiService.cs",
+              "RelativeToolTip": "nice-data-with-openAI\\Services\\IOpenAiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T23:14:03.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "nice-data-with-openAI.http",
+              "DocumentMoniker": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\nice-data-with-openAI.http",
+              "RelativeDocumentMoniker": "nice-data-with-openAI\\nice-data-with-openAI.http",
+              "ToolTip": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\nice-data-with-openAI.http",
+              "RelativeToolTip": "nice-data-with-openAI\\nice-data-with-openAI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-07T23:03:35.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
