@@ -524,11 +524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\nice-data-with-openAI.csproj",
+      "projectUniqueName": "D:\\WORK\\genAI\\Backend-geniai\\nice-data-with-openAI\\nice-data-with-openAI\\nice-data-with-openAI.csproj",
       "projectName": "nice-data-with-openAI",
-      "projectPath": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\nice-data-with-openAI.csproj",
+      "projectPath": "D:\\WORK\\genAI\\Backend-geniai\\nice-data-with-openAI\\nice-data-with-openAI\\nice-data-with-openAI.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\WORK\\Backend\\nice-data-with-openAI\\nice-data-with-openAI\\obj\\",
+      "outputPath": "D:\\WORK\\genAI\\Backend-geniai\\nice-data-with-openAI\\nice-data-with-openAI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

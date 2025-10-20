@@ -1,0 +1,39 @@
+# Ignore Visual Studio temporary files, build results, and other clutter
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+.vs/
+
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## VS cache folders
+.vs/
+.vscode/
+
+## Logs
+*.log
+
+## Temporary files
+*.tmp
+*.temp
+*.bak
+
+## Compiled files
+*.dll
+*.exe
+*.pdb
+
+## Packages
+packages/
+*.nupkg
+
+## Other
+node_modules/
+dist/

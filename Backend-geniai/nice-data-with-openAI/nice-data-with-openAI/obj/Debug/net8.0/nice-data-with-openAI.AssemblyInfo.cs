@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nice-data-with-openAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52b88c76d49fed05cdb1ba5eec079480901a4612")]
 [assembly: System.Reflection.AssemblyProductAttribute("nice-data-with-openAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nice-data-with-openAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
